@@ -1,3 +1,5 @@
-print('Segundo cambio en app.py')
-print("Cambio main resuelto desde app.py")
+# preguntar el nombre de ususario
+name = input("¿Cuál es tu nombre? ")
+# saludar al usuario
+print("Hola, " + name + "!")    
 
